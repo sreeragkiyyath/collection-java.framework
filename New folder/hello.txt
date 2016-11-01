@@ -1,0 +1,3 @@
+url:localhost:3309/studdb
+username:root
+password:mysql
